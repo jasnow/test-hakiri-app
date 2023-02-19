@@ -28,6 +28,7 @@ gem 'sdoc', group: :doc
 
 # Use Unicorn as the app server
 # gem 'unicorn'
+gem 'webrick'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
