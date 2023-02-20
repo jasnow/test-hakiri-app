@@ -83,6 +83,7 @@ GEM
     concurrent-ruby (1.2.0)
     crass (1.0.6)
     date (3.3.3)
+    debug (1.7.1)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     erubi (1.12.0)
@@ -272,6 +273,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails
+  debug
   jbuilder
   jquery-rails
   rails (= 7.0.4.2)
