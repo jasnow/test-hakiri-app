@@ -52,3 +52,5 @@ end
 gem 'rails-html-sanitizer'
 
 gem 'rest-client'
+
+gem 'simplecov', require: false, group: :test
