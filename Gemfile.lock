@@ -305,13 +305,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  base64
-  bigdecimal
   byebug
   coffee-rails
   jbuilder
   jquery-rails
-  mutex_m
   rails (= 7.1.0)
   rails-html-sanitizer
   rest-client
