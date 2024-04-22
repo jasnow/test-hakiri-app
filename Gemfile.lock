@@ -337,7 +337,7 @@ DEPENDENCIES
   simplecov
   spektr
   spring
-  sqlite3
+  sqlite3 (~> 1.4)
   turbolinks
   uglifier
   web-console
