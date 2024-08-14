@@ -114,7 +114,7 @@ GEM
       thor
       tilt
     http-accept (1.7.0)
-    http-cookie (1.0.6)
+    http-cookie (1.0.7)
       domain_name (~> 0.5)
     i18n (1.14.5)
       concurrent-ruby (~> 1.0)
@@ -144,7 +144,7 @@ GEM
     mime-types-data (3.2024.0806)
     mini_mime (1.1.5)
     mini_portile2 (2.8.7)
-    minitest (5.24.1)
+    minitest (5.25.0)
     net-imap (0.4.14)
       date
       net-protocol
