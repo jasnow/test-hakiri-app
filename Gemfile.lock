@@ -116,13 +116,13 @@ GEM
     http-accept (1.7.0)
     http-cookie (1.0.7)
       domain_name (~> 0.5)
-    i18n (1.14.5)
+    i18n (1.14.6)
       concurrent-ruby (~> 1.0)
     io-console (0.7.2)
-    irb (1.14.0)
+    irb (1.14.1)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
-    jbuilder (2.12.0)
+    jbuilder (2.13.0)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
     jquery-rails (4.6.0)
@@ -171,6 +171,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
+    ostruct (0.6.0)
     parser (3.3.5.0)
       ast (~> 2.4.1)
       racc
@@ -305,9 +306,9 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    uglifier (4.2.0)
+    uglifier (4.2.1)
       execjs (>= 0.3.0, < 3)
-    unicode-display_width (2.5.0)
+    unicode-display_width (2.6.0)
     unicode_utils (1.4.0)
     useragent (0.16.10)
     web-console (4.2.1)
@@ -315,7 +316,7 @@ GEM
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
       railties (>= 6.0.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
     websocket-driver (0.7.6)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
@@ -343,6 +344,7 @@ DEPENDENCIES
   coffee-rails
   jbuilder
   jquery-rails
+  ostruct
   rails (= 7.2.1)
   rails-html-sanitizer
   rest-client
@@ -359,4 +361,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.5.18
+   2.5.20
