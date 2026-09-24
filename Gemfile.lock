@@ -147,7 +147,7 @@ GEM
     mime-types (3.7.0)
       logger
       mime-types-data (~> 3.2025, >= 3.2025.0507)
-    mime-types-data (3.2026.0921)
+    mime-types-data (3.2026.0922)
     mini_mime (1.1.5)
     mini_portile2 (2.8.9)
     minitest (6.0.6)
@@ -425,7 +425,7 @@ CHECKSUMS
   mail (2.9.1) sha256=06574eca475253d6c18145dd70af80d0eb970182d55053497c5f4d797ea160e8
   marcel (1.2.1) sha256=1678e9360e32f9eafa917c80029e2f6d10b2715c66a4b87b6d0da9b9cd1f859f
   mime-types (3.7.0) sha256=dcebf61c246f08e15a4de34e386ebe8233791e868564a470c3fe77c00eed5e56
-  mime-types-data (3.2026.0921) sha256=22d5d31e608c32009248274376a691266756c287f805fb250b09bdb5eef16781
+  mime-types-data (3.2026.0922) sha256=f49b8cf20f3b9cf3e874791cd9ec96bdd5c1740dfd1a256ce4ea56762f4c58ae
   mini_mime (1.1.5) sha256=8681b7e2e4215f2a159f9400b5816d85e9d8c6c6b491e96a12797e798f8bccef
   mini_portile2 (2.8.9) sha256=0cd7c7f824e010c072e33f68bc02d85a00aeb6fce05bb4819c03dfd3c140c289
   minitest (6.0.6) sha256=153ea36d1d987a62942382b61075745042a2b3123b1cd48f4c3675af9cc7d6f1
